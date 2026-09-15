@@ -1,0 +1,24 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Unit Price (INR),Total Price (INR),Price Basis
+"C1,C2,C3,C4,C7,C17",6,100nF,,,,Capacitor_SMD:C_0402_1005Metric,~,0.24,1.44,Indicative generic 0402 MLCC
+"C5,C6",2,10µF,,,,Capacitor_SMD:C_0805_2012Metric,~,0.78,1.56,Indicative generic 10uF 0805 MLCC
+C8,1,1µF,,,,Capacitor_SMD:C_0402_1005Metric,~,0.4,0.4,Indicative generic 1uF 0402 MLCC
+"C9,C14",2,100nF,,,,Capacitor_SMD:C_0603_1608Metric,~,0.24,0.48,Indicative generic 0603 100nF MLCC
+"C10,C11",2,20pF,,,,Capacitor_SMD:C_0402_1005Metric,~,1.86,3.72,Indicative 20pF 0402 C0G/NP0
+"C13,C16",2,1µF_X5R,,,,Capacitor_SMD:C_0402_1005Metric,~,0.4,0.8,Indicative generic 1uF X5R 0402 MLCC
+C15,1,10nF_X7R,,,,Capacitor_SMD:C_0402_1005Metric,~,0.4,0.4,Indicative generic 10nF X7R 0402 MLCC
+C18,1,4.7µF,,,,Capacitor_SMD:C_0805_2012Metric,~,1.5,1.5,Indicative generic 4.7uF 0805 MLCC
+D1,1,BAT60A,,,,Diode_SMD:D_SOD-323,https://www.infineon.com/dgdl/Infineon-BAT60ASERIES-DS-v01_01-en.pdf?fileId=db3a304313d846880113def70c9304a9,19.11,19.11,DigiKey India indicative price
+"D2,D3",2,LED,,,,LED_SMD:LED_0603_1608Metric,~,0.5,1.0,Indicative generic 0603 LED
+FB1,1,100MHz120Ω,,,,Inductor_SMD:L_0603_1608Metric,~,0.8,0.8,Indicative generic 0603 ferrite bead
+J2,1,USB_C_Receptacle_USB2.0_16P,,,,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,15.0,15.0,Indicative TYPE-C-31-M-12 equivalent
+J3,1,Conn_01x05_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~,5.0,5.0,Indicative generic 1x05 2.54mm header
+"J6,J9",2,Conn_01x24_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical,~,8.0,16.0,Indicative generic 1x24 2.54mm header
+"R1,R3",2,5.1KΩ,,,,Resistor_SMD:R_0402_1005Metric,~,0.18,0.36,KTRON India indicative 0402 resistor
+R2,1,10KΩ,,,,Resistor_SMD:R_0402_1005Metric,~,0.18,0.18,Indicative generic 0402 resistor
+"R5,R6",2,4.7KΩ,,,,Resistor_SMD:R_0402_1005Metric,~,0.18,0.36,Indicative generic 0402 resistor
+"R7,R8",2,1KΩ,,,,Resistor_SMD:R_0402_1005Metric,~,0.18,0.36,Indicative generic 0402 resistor
+"SW3,SW4",2,SW_SPST,,,,Button_Switch_SMD:SW_SPST_TL3342,~,56.37,112.74,DigiKey India TL3342 indicative price
+U1,1,USBLC6-2P6,,,,Package_TO_SOT_SMD:SOT-666,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,62.11,62.11,DigiKey India USBLC6-2P6 indicative price
+U2,1,LD3985M33R_SOT23,,,,Package_TO_SOT_SMD:SOT-23-5,http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf,74.53,74.53,DigiKey India LD3985M33R indicative price
+U3,1,STM32F401RETx,,,,Package_QFP:LQFP-64_10x10mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32f401re.pdf,729.6,729.6,Mouser India STM32F401RET6 indicative price
+Y1,1,8MHz(16pF),,,,Crystal:Crystal_HC49-4H_Vertical,~,5.0,5.0,Indicative generic 8MHz HC49 crystal
